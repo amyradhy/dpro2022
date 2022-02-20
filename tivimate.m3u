@@ -1,16 +1,15 @@
 #EXTM3U
-#EXTINF:0,--------------------- Malaysia VIP IPTV -----------------------
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://doc-00-74-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/006gk5223ssmtbhtstpk6uoaa569gpqv/1645174050000/09223031575401091332/*/---------------------%20Malaysia%20VIP%20IPTV%20-----------------------
+
 #EXTINF:30,TV1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
 #EXTINF:30,TV2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
 #EXTINF:18,TV3
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -27,6 +26,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/KakLongGarang/hentamsajala/main/TV3.m3u8
+
 #EXTINF:0,AWESOME TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -35,6 +35,7 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802201
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
 #EXTINF:0,DIDIK TV KPM
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
