@@ -137,86 +137,107 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1727
+
 #EXTINF:0,XIAO TAI YANG
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1714
+
 #EXTINF:0,AOD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1724
+
 #EXTINF:0,TVB JADE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71040
+
 #EXTINF:0,HUA HEE DAI
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1725
+
 #EXTINF:0,iQIYI
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71038
+
 #EXTINF:0,TVB XING HE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71044
+
 #EXTINF:0,AURA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71145
+
 #EXTINF:0,RANIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71144
+
 #EXTINF:0,NAURA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71023
+
 #EXTINF:0,TVS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+
 #EXTINF:0,GO SHOP
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+
 #EXTINF:0,SURIA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1700
+
 #EXTINF:0,CHANNEL 5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
 #EXTINF:0,Channel Vasantham
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
 #EXTINF:0,CHANNEL 8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
 #EXTINF:0,CHANNEL U
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
 #EXTINF:0,COLORS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1946
+
 #EXTINF:0,BOLLYONE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+
 #EXTINF:0,ANTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
 #EXTINF:0,RTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
 #EXTINF:0,SCTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -227,202 +248,252 @@ http://group2-swiftservesd-1.dens.tv/s/s03/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+
 #EXTINF:0,TRANS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
 #EXTINF:0,TRANS 7
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
 #EXTINF:0,RTM PARLIMEN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://rtmlive04tv.secureswiftcontent.com/rtmchannel/04-manifest.mpd
+
 #EXTINF:0,BERITA RTM
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
 #EXTINF:0,AWANI
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1704
+
 #EXTINF:0,BERNAMA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1717
+
 #EXTINF:0,AL JAZEERA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 #EXTINF:0,ANIMAX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
 #EXTINF:0,CARTOON NETWORK
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://conversant.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=618
+
 #EXTINF:0,NICK JR
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+
 #EXTINF:0,NICKELODEON
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
 #EXTINF:0,CBEEBIES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
 #EXTINF:0,BOOMERANG
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
 #EXTINF:0,BABY TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
 #EXTINF:0,ANIMAL PLANET
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
 #EXTINF:0,DISCOVERY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
 #EXTINF:0,HISTORY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
 #EXTINF:0,NATIONAL GEOGRAPHIC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
 #EXTINF:0,NAT GEOWILD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
 #EXTINF:0, Love Nature HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:0,HGTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
 #EXTINF:0,CRIME+INVESTIGATION
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
 #EXTINF:0,WARNER TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
 #EXTINF:0,FMN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
 #EXTINF:0,HITS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
 #EXTINF:0,KIX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
 #EXTINF:0,PRIMETIME
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://139.99.90.11/streaming/clients_live.php?extension=m3u8&username=1159189903&password=4938860969&stream=1726
+
 #EXTINF:0,AXN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
 #EXTINF:0,AFN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+
 #EXTINF:0,FOOD NETWORK
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71091
+
 #EXTINF:0,LIFETIME
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
 #EXTINF:0,TLC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
 #EXTINF:0,BBC EARTH
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
 #EXTINF:0,BBC LIFESTYLE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/sdb/bbclifestyle_hls.smil/chunklist.m3u8
+
 #EXTINF:0,ONE TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
 #EXTINF:0,WAKU2 JAPAN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+
 #EXTINF:0,OH!K
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71054
+
 #EXTINF:0,KBS WORLD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71052
+
 #EXTINF:0,HUNAN TV HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
 #EXTINF:0,TVN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
 #EXTINF:0,TVN MOVIES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
 #EXTINF:0,K+
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
+
 #EXTINF:0,Sony GEM
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://group1-swiftservehd-1.dens.tv/h/h19/index.m3u8
+
 #EXTINF:0,ROCK ENTERTAINMENT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist.m3u8
+
 #EXTINF:0,ROCK EXTREME
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://livecdn.fptplay.net/hda1/blueantext_hls.smil/chunklist.m3u8
+
 #EXTINF:0,MyCinema HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+
 #EXTINF:0,MyCinema Asia HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+
 #EXTINF:0,MyFamily Channel HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+
 #EXTINF:0,MyCinema Europe
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
+
 #EXTINF:0,HBO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -433,30 +504,37 @@ http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SW
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://my.odtv.uk/streaming/clients_live.php?extension=m3u8&username=1159189903&password=4938860969&stream=72
+
 #EXTINF:0,HBO HITS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
 #EXTINF:0,HBO FAMILY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
 #EXTINF:0,HBO SIGNATURE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
 #EXTINF:0,CINEMAX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
 #EXTINF:0,SHOWCASE MOVIES
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=1826
+
 #EXTINF:0,CINEMA WORLD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
 #EXTINF:0,THRILL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -465,142 +543,177 @@ https://conversant.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1697
+
 #EXTINF:0,HITS MOVIE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
 #EXTINF:0,&FLIX HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=54975
+
 #EXTINF:0,&PRIVE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=55158
+
 #EXTINF:0,ZEE CAFE HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=55352
+
 #EXTINF:0,&PICTURES HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1957
+
 #EXTINF:0,SONY PIX HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=2198
+
 #EXTINF:0,Star Movies HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=2289
+
 #EXTINF:0,ZEE CINEMA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1880
+
 #EXTINF:0,ZEE TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1938
+
 #EXTINF:0,ZING
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=55354
+
 #EXTINF:0,MTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71099
+
 #EXTINF:0,CNA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
 #EXTINF:0,BLOOMBERG
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
 #EXTINF:0,CGTN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://live.cgtn.com/1000/prog_index.m3u8
+
 #EXTINF:0,SKY NEWS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
 #EXTINF:0,TRT WORLD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
 #EXTINF:29,ARIRANG TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
 #EXTINF:60,NHK WORLD JAPAN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
 #EXTINF:60,CGTN DOCUMENTARY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://livedoc.cgtn.com/500d/prog_index.m3u8
+
 #EXTINF:30,RTM SUKAN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
 #EXTINF:0,ARENA 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=965
+
 #EXTINF:0,SUPERSPORT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=59220
+
 #EXTINF:0,SUPERSPORT 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=59219
+
 #EXTINF:0,SUPERSPORT 3
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=59218
+
 #EXTINF:0,SUPERSPORT 4
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=59217
+
 #EXTINF:0,SUPERSPORT 5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=8022011502&password=123456&stream=968
+
 #EXTINF:0,CRICKET
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71109
+
 #EXTINF:0,GOLF
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71107
+
 #EXTINF:0,BEIN SPORTS 1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
 #EXTINF:0,BEIN SPORTS 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
 #EXTINF:0,BEIN SPORTS 3
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=71105
+
 #EXTINF:0,FIGHT SPORTS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://conversant.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
 #EXTINF:0,WWE NETWORK
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1698
+
 #EXTINF:30,Unifi Sports 1 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+
 #EXTINF:0,Unifi Sports 2 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
