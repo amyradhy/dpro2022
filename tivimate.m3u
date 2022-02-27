@@ -710,12 +710,3 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 #EXTVLCOPT:network-caching=1000
 http://wanicelife.com:8880/streaming/clients_live.php?extension=rtmp&username=SWFAF1231293&password=XTGE495U&stream=1698
 
-#EXTINF:30,Unifi Sports 1 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:0,Unifi Sports 2 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live12.mpd
